@@ -1,2 +1,2 @@
 # TeacherLookup
-lookup teachers in san diego
+Created by <a href="https://github.com/yaydy/">Yaydy</a>
